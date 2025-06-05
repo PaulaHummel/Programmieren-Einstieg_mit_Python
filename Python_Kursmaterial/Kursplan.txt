@@ -1,0 +1,22 @@
+Kursplan:
+
+Einheit 1 – Grundlagen
+Ziel: Grundverständnis vom Programmieren und Python
+Inhalte:
+– Warum Programmieren lernen?
+– Was braucht man zum Programmieren?
+– Python-Grundlagen: Variablen, Datentypen (Strings, Zahlen, Listen, Dictionaries), Kontrollstrukturen (if/else, for, while), Funktionen und Methoden
+
+Einheit 2 – Funktionen
+Ziel: Einfache Probleme mit Code lösen 
+Inhalte:
+– Funktionen schreiben
+– Klassen verstehen und verwenden
+– Arbeiten mit Texten (String-Methoden, Reguläre Ausdrücke)
+
+
+Einheit 3 – Python-Bibliotheken (+ evtl. kleines Spiel)
+Ziel: Bibliotheken einbinden und verstehen lernen
+Inhalte:
+– Bibliotheken verwenden
+– Mit Hilfe von Bibliotheken weitere Programmiererfahrung sammeln 
